@@ -1,0 +1,31 @@
+
+          <html>
+            <body><html>
+<body>
+
+<h2>An ordered HTML list</h2>
+
+<ol>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+  <li>Veggies</li>
+</ol>  
+
+
+
+<h2>An UNordered HTML list</h2>
+
+<ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+  <li>Veggies</li>
+</ul> 
+
+</body>
+</html></body>
+            <style> false</style>
+            <script></script>
+          </html>
+        
